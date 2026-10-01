@@ -1,0 +1,14 @@
+*.o
+*.a
+md
+md.exe
+example
+example.exe
+*.dSYM
+*.out
+
+__pycache__/
+*.pyc
+*.pyo
+mdlexertest
+mdapitest
